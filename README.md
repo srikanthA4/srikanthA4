@@ -18,7 +18,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srikantha4&label=Profile%20views&color=0e75b6&style=flat" alt="srikantha4" /> </p>
 
-<p><img align="center" src="https://github-profile-trophy.vercel.app/?username=srikantha4&row=2&column=3"/></p>
+<!-- <p><img align="center" src="https://github-profile-trophy.vercel.app/?username=srikantha4&row=2&column=3"/></p> -->
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=srikantha4" alt="srikantha4" /></a> </p>
 
