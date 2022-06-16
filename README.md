@@ -2,10 +2,10 @@
 <h2 align="center">A MERN stack  developer from India </h2>
   <h4>🌱 I’m currently learning **Full stack web development and i am passionate about building digital products that improve everyday experience for people. I love to work on exciting projects that test what I've learnt, whilst being exposed to the power and potential of the ever-evolving technologies around us. I'm always looking for better, and more importantly, ethical and accessible ways to solve the common problems we are faced with day-to-day. **</h4>
   
-  To know about me [click here](https://srikanthkarnatia4.vercel.app/#home) this is the project to store the file in cloud 
+  To know about me [click here](https://srikanthkarnatia4.vercel.app/#home)  
   <h2>My projects</h2>
   
-  1.File storage->[live demo](https://file-storage-mern.vercel.app/)
+  1.File storage->[live demo](https://file-storage-mern.vercel.app/) <p>this is the project to store the file in cloud</p>
   
   2.Meet Buddy->[live demo](https://let-meet-buddy.vercel.app/)
   
