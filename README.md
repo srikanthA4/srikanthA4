@@ -26,7 +26,7 @@
 
 - 📫 how to reach me How to reach me **ksreddy5a4@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/13Ah6TlH-noVnPMA1EZpfNSZAKn0siqrp/view](https://drive.google.com/file/d/13Ah6TlH-noVnPMA1EZpfNSZAKn0siqrp/view)
+- 📄 Know about my experiences [click to get Resume](https://drive.google.com/file/d/13Ah6TlH-noVnPMA1EZpfNSZAKn0siqrp/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
