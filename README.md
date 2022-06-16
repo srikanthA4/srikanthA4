@@ -20,7 +20,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=srikantha4" alt="srikantha4" /></a> </p>
 
-- 🔭 I’m currently working on Full stack projects
+- 🔭 I’m currently working on [Full stack projects]
 
 - 👨‍💻 All of my projects are available at [https://srikanthkarnatia4.vercel.app/](https://srikanthkarnatia4.vercel.app/)
 
