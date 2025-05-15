@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm srikanth karnati</h1>
+<h1 align="center">Hi I'm srikanth karnati</h1>
 <h2 align="center">A MERN stack  developer from India </h2>
   <h4>🌱 I’m currently learning **Full stack web development and i am passionate about building digital products that improve everyday experience for people. I love to work on exciting projects that test what I've learnt, whilst being exposed to the power and potential of the ever-evolving technologies around us. I'm always looking for better, and more importantly, ethical and accessible ways to solve the common problems we are faced with day-to-day. **</h4>
   
