@@ -5,18 +5,17 @@
   To know about me [click here](https://srikanthkarnatia4.vercel.app/#home)  
   <h2>My projects</h2>
   
-  1.File storage
-  //->[live demo](https://file-storage-mern.vercel.app/) //
+  1.File storage <!-- [live demo](https://file-storage-mern.vercel.app/) -->
   
-  2.Meet Buddy->[live demo](https://let-meet-buddy.vercel.app/)
+  2.Meet Buddy<!-- [live demo](https://let-meet-buddy.vercel.app/) -->
   
-  3.Amazon->[live demo](https://clone-36782.web.app/)
+  3.Amazon<!--[live demo](https://clone-36782.web.app/)-->
   
-  4.mobileshopee->[live demo](https://mobileshopee-client.vercel.app/)
+  4.mobileshopee<!---[live demo](https://mobileshopee-client.vercel.app/)-->
   
-  5.Post Share->[live demo](https://postshare.netlify.app/)
+  5.Post Share<!--[live demo](https://postshare.netlify.app/)-->
   
-  6.Translator->[live demo](https://superlative-hamster-93e7e6.netlify.app/)
+  6.Translator<!--[live demo](https://superlative-hamster-93e7e6.netlify.app/)-->
   
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srikantha4&label=Profile%20views&color=0e75b6&style=flat" alt="srikantha4" /> </p>
