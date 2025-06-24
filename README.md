@@ -5,7 +5,8 @@
   To know about me [click here](https://srikanthkarnatia4.vercel.app/#home)  
   <h2>My projects</h2>
   
-  1.File storage//->[live demo](https://file-storage-mern.vercel.app/) //
+  1.File storage
+  //->[live demo](https://file-storage-mern.vercel.app/) //
   
   2.Meet Buddy->[live demo](https://let-meet-buddy.vercel.app/)
   
