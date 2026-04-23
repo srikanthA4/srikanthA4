@@ -4,9 +4,9 @@
 
 <h1 align="center">Hi 👋, I'm Srikanth Karnati</h1>
 
-<!-- <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Srikanth+Karnati;MERN+Stack+Developer;Passionate+Full+Stack+Developer;Building+Scalable+Web+Apps;Open+to+Opportunities" />
-</p> -->
+ <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?  font=Fira+Code&size=24&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Srikanth+Karnati;MERN+Stack+Developer;Passionate+Full+Stack+Developer;Building+Scalable+Web+Apps;Open+to+Opportunities" />
+</p> 
 <!-- <h1 align="center">Hi 👋, I'm Srikanth Karnati</h1>
 <h3 align="center">MERN Stack Developer from India</h3> -->
 
